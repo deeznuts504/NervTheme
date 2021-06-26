@@ -3,10 +3,10 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1606 94" style="enable-background:new 0 0 1606 94;" xml:space="preserve">
 <style type="text/css">
-	.st0{font-family:'GillSansMT-Condensed';}
+	.st0{font-family:'Moby-Monospace';}
 	.st1{font-size:100px;}
 	.st2{fill:none;}
 </style>
-<text transform="matrix(1 0 0 1 12.1079 79.9019)" class="st0 st1">Nerv: Terminal BOOTING</text>
-<rect x="1022" y="65" class="st2" width="7" height="0"/>
+<text transform="matrix(0.779 0 0 1 0 79.9023)" class="st0 st1">Nerv: Terminal BOOTING</text>
+<polygon class="st2" points="1022,65 1029,65 1029,65 "/>
 </svg>
