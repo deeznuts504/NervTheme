@@ -1,0 +1,17 @@
+/**
+ * @name Nerv: Yerminal
+ * @author swk#1919
+ * @version 1.0.0
+ * @source https://github.com/CommandCrafterHD/Fallout4TerminalTheme
+ * @description Nerv Terminal theme test
+*/
+
+@import url('');
+
+/* TO CUSTOMIZE THE THEME, UNCOMMENT THE LINES BELOW AND REPLACE THE VARIABLES */
+
+:root {
+  --background: #000700 !important;
+  --text-color: #4AEF98 !important;
+  --highlight: var(--text-color) !important;
+}
